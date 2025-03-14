@@ -9,7 +9,7 @@ Step 2: After Projection, use a small neural network to train on the regression 
 ### Information about codebase ###
 Models :
 ```
-  ./Models
+  ./Model
       |___model.py
           |_________ VAE, PCA, RegressionNN
 
