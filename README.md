@@ -1,4 +1,6 @@
-# VAE-PCA Signal Processing
+# VAE-PCA Signal Processing #
+### Report
+https://github.com/SandipanMajhi/VAE_PCA_SignalProc/blob/main/Report-ML%20Task.pdf 
 
 ### Dependencies ###
 ```
