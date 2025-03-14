@@ -1,5 +1,17 @@
 # VAE-PCA Signal Processing
 
+### Dependencies ###
+```
+  torch
+  torchvision
+  torchaudio
+  scikit-learn
+  numpy
+  pandas
+  matplotlib
+  tqdm
+```
+
 ### Ideation ###
 Dimensionality Reduction Techniques used : PCA and VAE
 Step 1: Take the spectral features and reduce dimensions using PCA or VAE
