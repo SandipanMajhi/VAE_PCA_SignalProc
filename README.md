@@ -1,1 +1,3 @@
-# VAE_PCA_SignalProc
+# VAE-PCA Signal Processing
+
+### 
